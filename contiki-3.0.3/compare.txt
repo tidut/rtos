@@ -1,0 +1,54 @@
+This below  is comparison between two directories set by user
+
+Dir 1 tech-contiki-3.0.1
+Dir 2 tech-contiki-3.0.2
+Time of compilation Sat Jun 25 13:30:15 2016
+
+diff_file tech.sh found in tech-contiki-3.0.1 and tech-contiki-3.0.2 
+diff_file contiki-version.h found in tech-contiki-3.0.1/core and tech-contiki-3.0.2/core 
+diff_file contiki-main.c found in tech-contiki-3.0.1/platform/cc2538dk and tech-contiki-3.0.2/platform/cc2538dk 
+diff_file Makefile.cc2538dk found in tech-contiki-3.0.1/platform/cc2538dk and tech-contiki-3.0.2/platform/cc2538dk 
+diff_file def.h found in tech-contiki-3.0.1/platform/cc2538dk/dev and tech-contiki-3.0.2/platform/cc2538dk/dev 
+diff_file als-sensor.c found in tech-contiki-3.0.1/platform/cc2538dk/dev and tech-contiki-3.0.2/platform/cc2538dk/dev 
+diff_file board.h found in tech-contiki-3.0.1/platform/cc2538dk/dev and tech-contiki-3.0.2/platform/cc2538dk/dev 
+diff_file smartrf-sensors.c found in tech-contiki-3.0.1/platform/cc2538dk/dev and tech-contiki-3.0.2/platform/cc2538dk/dev 
+diff_file als-sensor.h found in tech-contiki-3.0.1/platform/cc2538dk/dev and tech-contiki-3.0.2/platform/cc2538dk/dev 
+diff_file er-example-server.hex found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-client-cc2538dk.map found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-server-cc2538dk.map found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-server.elf found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-client.bin found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-client.cc2538dk found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file contiki-cc2538dk.a found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file compile_time.h found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-client.c found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-client.elf found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-server.cc2538dk found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-server.bin found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-server.c found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-server.h found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file version.h found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file er-example-client.hex found in tech-contiki-3.0.1/examples/er-rest-example and tech-contiki-3.0.2/examples/er-rest-example 
+diff_file smartrf-sensors.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file spi.o found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file res-diagnostics.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file res-energy.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file smartrf-sensors.o found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file res-Help.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file lpm.o found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file res-4to20.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file contiki-main.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file contiki-main.o found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file res-adc.d found in tech-contiki-3.0.1/examples/er-rest-example/obj_cc2538dk and tech-contiki-3.0.2/examples/er-rest-example/obj_cc2538dk 
+diff_file res-energy.c found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file Max17043.c found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file res-Help.c found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file Max17043.h found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file res-adc.c found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file res-4to20.c found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file res-diagnostics.c found in tech-contiki-3.0.1/examples/er-rest-example/resources and tech-contiki-3.0.2/examples/er-rest-example/resources 
+diff_file lpm.c found in tech-contiki-3.0.1/cpu/cc2538 and tech-contiki-3.0.2/cpu/cc2538 
+diff_file spi-arch.h found in tech-contiki-3.0.1/cpu/cc2538 and tech-contiki-3.0.2/cpu/cc2538 
+diff_file spi.c found in tech-contiki-3.0.1/cpu/cc2538/dev and tech-contiki-3.0.2/cpu/cc2538/dev 
+Old Version tech-contiki-3.0.2 
+New Version tech-contiki-3.0.3 
